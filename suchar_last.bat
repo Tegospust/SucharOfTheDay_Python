@@ -1,0 +1,1 @@
+pyr SucharOfTheDay.py last 
